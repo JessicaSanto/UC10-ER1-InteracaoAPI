@@ -5,6 +5,12 @@
       "password": "$2a$10$G0cYDVRVvKUpNlHXgyUZx.5AHA.Vr3Vj31YD5.9537dL1Xcsac7nC",
       "nome": "Thiago",
       "id": 1
+    },
+    {
+      "email": "jessica@email.com",
+      "password": "$2a$10$FwM3btfvdJf1TsTD8Q9IdOEJwcCca/E6I5quERUYK90N1uQOou/uO",
+      "nome": "Jessicar",
+      "id": 2
     }
   ],
   "noticias": [
